@@ -1,0 +1,43 @@
+body {
+    font-family: Arial;
+    background-color: #0d1b2a;
+    color: #333;
+    font-family: Crimson Text;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 15px;
+    padding: 20px;
+    background-color: #669bbc;
+
+}
+
+
+.temp-img {
+    width: 20%;
+    height: auto;
+}
+
+
+.btn-group button {
+    margin: 5px;
+}
+.footer {
+    background-color: #669bbc;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color:#0d1b2a ;
+}
+
